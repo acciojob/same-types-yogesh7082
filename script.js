@@ -1,5 +1,7 @@
-function isSameType(value1, value2) {
-  //your js code here
+function isSameType(v1, v2) {
+  return v1===v2;
+
+	
 }
 
 // do not change the code below.
